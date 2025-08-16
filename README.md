@@ -2,7 +2,6 @@
 <h3 align="center">A Full Stack Web and Mobile Application Developer</h3>
 
 <p align="center">
-  <strong>🔭 I’m currently working on:</strong> Chat App<br>
   <strong>🌱 I’m currently learning:</strong> React Native<br>
   <strong>👨‍💻 All of my projects are available at:</strong> <a href="https://portfolio-2-pied-zeta.vercel.app/" target="_blank">My Portfolio</a><br>
   <strong>💬 Ask me about:</strong> MERN<br>
