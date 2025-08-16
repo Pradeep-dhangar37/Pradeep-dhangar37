@@ -5,7 +5,7 @@
   <strong>🌱 I’m currently learning:</strong> React Native<br>
   <strong>👨‍💻 All of my projects are available at:</strong> <a href="https://portfolio-2-pied-zeta.vercel.app/" target="_blank">My Portfolio</a><br>
   <strong>💬 Ask me about:</strong> MERN<br>
-  <strong>📫 How to reach me:</strong> <a href="mailto:pradeepdhangar372@gmail.com">pradeepdhangar372@gmail.com</a>
+  <strong>📫 How to reach me:</strong> <a href="mailto:pradeepdhangar372@gmail.com">pradeepdhangar37@gmail.com</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
